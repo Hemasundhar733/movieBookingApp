@@ -1,7 +1,7 @@
 
 # Movies Booking App
 
-This is backend of the application created by Zaid Khan(Triquetrx)
+This is backend of the application 
 Created using: NodeJs, ExpressJS, MongoDB
 Module used for logging: Winston
 FrameWork used for testing: Jest
